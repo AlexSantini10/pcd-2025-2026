@@ -23,7 +23,7 @@ PCD a.y. 2024-2025 - ISI LM UNIBO - Cesena Campus
 ### Work-in-Lab 
 
 - Preparation
-	- program `pcd.lab01.ex02` - it creates and sorts an array
+	- program `pcd.lab01.ex01` - it creates and sorts an array
 - Exercise
 	- Create a concurrent version exploiting 2 threads and measure the speedup
 	- Generalise the solution to scale with the number of cores
