@@ -1,4 +1,4 @@
-package pcd.lab01.bballs;
+package pcd.lab02.bballs;
 
 import java.util.*;
 

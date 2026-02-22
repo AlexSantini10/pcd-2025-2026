@@ -2,7 +2,7 @@
  * Created on Feb 10, 2005
  * 
  */
-package pcd.lab01.bballs;
+package pcd.lab02.bballs;
 
 /**
  * 

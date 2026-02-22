@@ -8,11 +8,12 @@ public class SequentialSort {
 	
 	public static void main(String[] args) {
 	
-		log("Generating array...");
+		log("Num elements to sort: " + VECTOR_SIZE);
+		log("Generating array.");
 		var v = genArray(VECTOR_SIZE);
 		
 		log("Array generated.");
-		log("Sorting (" + VECTOR_SIZE + " elements)...");
+		log("Sorting.");
 	
 		long t0 = System.nanoTime();		
 		Arrays.sort(v, 0, v.length);

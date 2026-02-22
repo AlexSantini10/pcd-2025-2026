@@ -18,6 +18,9 @@ public class Main {
 		
 		var t0 = System.currentTimeMillis();
 		
+		var tnano = System.nanoTime();
+		
+		
 		log("Threads spawned at: " + t0);
 		
 		log("Waiting for their termination.");
