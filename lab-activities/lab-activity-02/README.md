@@ -4,6 +4,8 @@ PCD a.y. 2025-2026 - ISI LM UNIBO - Cesena Campus
 
 ### Multithreaded programming in Java: Performances, CPU vs. I/O bound programs
 
+- [Lab Notes] Performance of Concurrent Programs 
+
 - "concurrent sorting" exercise, example of CPU-intensive case - `pcd.lab02.ex01`
   - n-core solution: design
   - meausuring speed-up with different configurations (1, 2, 4, #cores, >#cores)
@@ -13,8 +15,11 @@ PCD a.y. 2025-2026 - ISI LM UNIBO - Cesena Campus
     - pure CPU (with 1,2, #cores, >#cores)
     - CPU + I/O (with 1,2, #cores, >#cores)
 
-- [Lab Notes] Performance of Concurrent Programs 
+- "bouncing balls" example
+  - when sleeping could be useful...
 
-- The "bouncing balls" example
+- "How many threads" example: `pcd.lab02.how_many_threads`
+  - about the limitations that we have with platform (OS) threads in Java
+
 
 
