@@ -8,7 +8,8 @@ public class Test {
 	public static void main(String[] args) {
 
 		int nWorkers = 1; // Runtime.getRuntime().availableProcessors();
-		
+        nWorkers = Runtime.getRuntime().availableProcessors();
+
 		long totalAmountOfCPUJob = 400_000_000;
 		long totalAmountOfIOJob = 20000; 
 		
