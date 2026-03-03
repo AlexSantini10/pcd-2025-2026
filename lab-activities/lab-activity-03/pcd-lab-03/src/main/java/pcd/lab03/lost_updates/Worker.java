@@ -3,10 +3,10 @@ package pcd.lab03.lost_updates;
 
 public class Worker extends Thread {
 	
-	private UnsafeCounter counter;
+	private SafeCounter counter;
 	private long ntimes;
 	
-	public Worker(String name, UnsafeCounter counter, long ntimes){
+	public Worker(String name, SafeCounter counter, long ntimes){
 		super(name);
 		this.counter = counter;
 		this.ntimes = ntimes;

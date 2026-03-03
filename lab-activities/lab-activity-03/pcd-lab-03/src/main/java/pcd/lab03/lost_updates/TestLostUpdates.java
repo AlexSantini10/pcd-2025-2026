@@ -10,7 +10,7 @@ public class TestLostUpdates {
 			ntimes = Integer.parseInt(args[0]);
 		}
 		
-		UnsafeCounter c = new UnsafeCounter(0);
+		SafeCounter c = new SafeCounter(0);
 		Worker w1 = new Worker("Worker-A", c, ntimes);
 		Worker w2 = new Worker("Worker-B", c, ntimes);
 
