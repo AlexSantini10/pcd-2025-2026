@@ -1,0 +1,5 @@
+target = pcd.lab04.jpf.TestLostUpdateUsingAssert
+
+classpath=/pcd-jpf/target/classes
+
+report.console.property_violation=error,trace

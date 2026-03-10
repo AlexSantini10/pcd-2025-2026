@@ -2,6 +2,8 @@ PCD a.y. 2025-2026 - ISI LM UNIBO - Cesena Campus
 
 # Lab Activity #03 - 20260302
 
+v1.1.0-20260309
+
 ### Implementing Critical Sections in Java
 
 - Using `synchronized` blocks: `pcd.lab03.cs_raw`
@@ -70,6 +72,23 @@ PCD a.y. 2025-2026 - ISI LM UNIBO - Cesena Campus
     6) To check if JPF is working, we launch one of the example available with the JPF distribution, the Racer (a Java program with a race condition):
 
         `java -jar build/RunJPF.jar src/examples/Racer.jpf`
+
+
+  - Using VS Code and dev container [*]
+    
+    - the `pcd-jpf` folder in the repo includes a `.devcointainer` folder, that configures and exploits a containe to work with JPF from inside Visual Studio (VS) code.
+
+    - By opening the folder with VS Code, an environment is automatically configured, preparing and running a docker container to run JPF. The first time, a docker image is built, using the `Dockerfile` available inside the folder.
+
+    - Then, by opening a terminal, you will be inside the cointainer and you can launch the model checker by using the alias `jpf` which stands for `java -jar /opt/jpf/jpf-core/build/RunJPF.jar`. Example:
+
+    ` jpf src/main/java/pcd/lab03/jpf/TestScenarios.jpf`  
+
+ 	
+[*] Option suggested and prepared by F. Diotallevi (thanks!)
+
+
+
       
 
  
