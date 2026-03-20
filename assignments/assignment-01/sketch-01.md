@@ -4,11 +4,11 @@ PCD a.y. 2024-2025 - ISI LM UNIBO - Cesena Campus
 
 v1.0.0-20260320
 
-This sketch shows an example of a board, with a number of small balls and one player ball moving and bouncing. The behaviour of the program is governed by a `main loop`, repeatedly computing the state of the board and rendering a new frame.
+This sketch (`pcd.sketch01`) shows an example of a board, with a number of small balls and one player ball moving and bouncing. The behaviour of the program is governed by a `main loop`, repeatedly computing the state of the board and rendering a new frame.
 
 ### About the Main Loop
 
-At each cycle, the main loop
+At each cycle, the main loop:
 - checks if it is time to kick the player ball
 - computes the next board state, depending on how much time is elapsed
 - updates the view model with the updated board state
