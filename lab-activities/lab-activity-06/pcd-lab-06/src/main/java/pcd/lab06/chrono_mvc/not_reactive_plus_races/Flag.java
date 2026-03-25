@@ -1,0 +1,18 @@
+package pcd.lab06.chrono_mvc.not_reactive_plus_races;
+
+public class Flag {
+
+	private boolean flag;
+	
+	public synchronized void reset() {
+		flag = false;
+	}
+	
+	public synchronized void set() {
+		flag = true;
+	}
+	
+	public synchronized boolean isSet() {
+		return flag;
+	}
+}
