@@ -63,41 +63,41 @@ v1.2.0-20260324
   - module-2.1
   - module-2.2
 
-**Week #9 - PART 02**
+**Week #9 - PART 03**
 - Monday  13 - Lab (41)
   - Lab Activity 08
-- ~~Friday 17~~ (no lecture due to master MED overlapping)
-
-**Week #10 - PART 03**
-- Monday  20 - Lab (44)
-  - Lab Activity 09
-- Friday 24 - Aula (47)
+- Friday 17 (43)
   - module-3.1
+ 
+**Week #10 - PART 03**
+- Monday  20 - Lab (46)
+  - Lab Activity 09
+- Friday 24 - Aula (48)
   - module-3.2
 
 *MAY*
 
 **Week #11 - PART 03**
-- Monday  27 - Lab (50)
+- Monday  27 - Lab (51)
   - Lab Activity 10
 - ~~Friday 1 May~~ (holiday)
 
 **Week #12 - PART 04**
-- Monday  4 - Lab (53)
+- Monday  4 - Lab (54)
   - Lab Activity 11
-- ~~Friday 8 May~~ (no lecture due to Master MED overlapping)
+- Friday 8 May - Aula (56) 
+  - module 4.1 
 
 **Week #13 - PART 04**
-- Monday  11 - Lab (56)
+- Monday  11 - Lab (59)
   - Lab Activity 12
-- Friday 15 - Aula (59)
-  - module-4.1
+- Friday 15 - Aula (61)
   - module-4.2
 
 **Week #14 - PART 04**
-- Monday  18 - Lab (62)
+- Monday  18 - Lab (64)
   - Lab Activity 13
-- Friday 22 - Aula (65)
+- Friday 22 - Aula (66)
   - module 4.3
 
 **Week #15 - break**

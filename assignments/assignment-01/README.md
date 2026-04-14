@@ -2,7 +2,7 @@ PCD a.y. 2024-2025 - ISI LM UNIBO - Cesena Campus
 
 # Assignment #01 -  Poool Game
 
-v1.0.0-20260320
+v1.0.1-20260401
 
 The assignment is about designing and developing a game called `Poool`. 
 
@@ -32,8 +32,8 @@ Design and develop a concurrent version of `Poool`, in two different versions:
 
 
 The concurrent programs should be designed according the principles studied during the course, promoting modularity, encapsulation as well as performance, reactivity. Further remarks:
-- For active components/thread interaction, monitors must be used, with your own implementation (no lib support)
-- The behaviour of the bot is not meant to be smart, could be any
+- For enabling/managing interaction among active components/threads, high-level constructs such as monitors should be preferably used (vs. low-level mechanisms) when possible, providing your own implementation.
+- The behaviour of the bot is not meant to be smart, could be any.
 - For every other aspect not specified, students are free to choose the best approach for them.
 
 Beside the source code, the assignment should contain a brief report, including:
