@@ -46,7 +46,7 @@ func main() {
 		msg := <-channels[i]
 		fmt.Printf("%s from %s at %s\n", msg.content, msg.senderId, msg.time.String())
 	}
-
+    
 	time1 := time.Now()
 	elapsed := time1.Sub(time0).Milliseconds()
 

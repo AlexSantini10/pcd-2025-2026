@@ -25,4 +25,4 @@ v1.0.0-20260417
       - Simple examples in lab
         - folder on the repo: `go-conc-examples`
     - **Proposed exercise**
-      - consider the `Exchange Value Problem` described in module-3.1 and implement the three solutions in Go.
+      - consider the `Exchanging Values Problem` described in module-3.1 and implement the three solutions in Go.
