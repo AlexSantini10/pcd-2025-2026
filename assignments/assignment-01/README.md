@@ -1,4 +1,4 @@
-PCD a.y. 2024-2025 - ISI LM UNIBO - Cesena Campus
+PCD a.y. 2025-2026 - ISI LM UNIBO - Cesena Campus
 
 # Assignment #01 -  Poool Game
 
